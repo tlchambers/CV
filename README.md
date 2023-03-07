@@ -2,14 +2,15 @@
 
 [LinkedIn](https://www.linkedin.com/in/thuy-l-2a3a13165/) | [Projects](CV#Projects) | [Skills](CV#Skills) | [Education](CV#Education) | [Hobbies](CV#Hobbies) 
 
-As a recent graduate of Makers Academy's full-stack software developer coding bootcamp, I have gained valuable experience in coding with Ruby and JavaScript, as well as test-driven development. Through daily pair programming and agile project work, I have also improved my communication and collaboration skills. I have gain a strong foundation in software development and I am passionate about building applications that solve real-world problems. I enjoy working on both the front-end and back-end of applications, and I am always looking for opportunities to learn and expand my skills and knowledge.
+As a recent graduate of Makers Academy's full-stack software developer coding bootcamp, I have gained valuable experience in coding with Ruby and JavaScript, as well as test-driven development. Through daily pair programming and agile project work, I have also improved my communication and collaboration skills. I am genuinely passionate about using my skills to develop innovative products and solve complex challenges. I am always looking for new opportunities to learn and grow as a coder, and I'm committed to learning to ensure that I am constantly improving my skills and knowledge. I am enthusiastic about the opportunity to continue developing my skills and expertise as a software developer.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools            |
-| ---------------------------- | ----------------- | ----------------------|
-| **Final project**            | A webapp to do x. | React, Jest, Bootsrap |
-| **Bank-Tech-Testn**          | A webapp to do y. | Ruby                  |
+| Name                         | Description       | Techstac              | Duration            |
+| ---------------------------- | ----------------- | ----------------------| ----------------------|
+| **Final project**            | A webapp to do x. | React, Jest, Bootsrap |                        |
+| **Bank-Tech-Test**           | A webapp to do y. | Ruby                  |                      |
+| **Bank-Tech-Test**           | A webapp to do y. | Ruby                  |                      |
 
 ## Work Experience
 
