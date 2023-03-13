@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-I'm a recent Full-Stack software developer graduate at Makers Academy. I am genuinely passionate about improving my skills to develop innovative products and solve complex challenges. I'm committed to learning to ensure that I am constantly improving my skills and knowledge. Enthusiastic about learning to code and breaking into the tech industry.
+I'm a recent Full-Stack Software Developer graduate at Makers Academy. I am genuinely passionate about improving my skills to develop innovative products and solve complex challenges. I'm committed to learning to ensure that I am constantly improving my skills and knowledge. Enthusiastic about learning to code and breaking into the tech industry.
 </p>
 
 <h2 align="center">Tech Stack</h2> 
@@ -30,8 +30,7 @@ I'm a recent Full-Stack software developer graduate at Makers Academy. I am genu
 
 
 
-
-[LinkedIn](https://www.linkedin.com/in/thuy-l-2a3a13165/) | [Projects](CV#Projects) | [Skills](CV#Skills) | [Education](CV#Education) | [Hobbies](CV#Hobbies) 
+[Projects](CV#Projects) | [Skills](CV#Skills) | [Education](CV#Education) | [Hobbies](CV#Hobbies) 
 
 ## Projects
 
