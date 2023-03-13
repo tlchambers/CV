@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-I'm a recent Full-Stack Software Developer graduate at Makers Academy. I am genuinely passionate about improving my skills to develop innovative products and solve complex challenges. I'm committed to learning to ensure that I am constantly improving my skills and knowledge. Enthusiastic about learning to code and breaking into the tech industry.
+I'm a recent Full-Stack Software Developer graduate at Makers Academy. I am passionate about improving my skills to develop innovative products and solve complex challenges. I'm committed to learning to ensure that I am constantly improving my skills and knowledge. Enthusiastic about learning to code and breaking into the tech industry.
 </p>
 
 <h2 align="center">Tech Stack</h2> 
@@ -28,8 +28,11 @@ I'm a recent Full-Stack Software Developer graduate at Makers Academy. I am genu
 </p>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tlchambers&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=tlchambers&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlchambers&background=00000000&theme=dark&hide_border=false&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+<br><br> -->
+<img src="https://github-readme-stats.vercel.app/api?username=tlchambers" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tlchambers" />
 <br><br>
 
 
