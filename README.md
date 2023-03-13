@@ -13,13 +13,15 @@ I'm a recent Full-Stack Software Developer graduate at Makers Academy. I am genu
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby"/>
 </p>
 
-<p align="center">Check me out on Linkedin or visit Tiktok to see from the very beginning of my coding journey into tech:</p>
+<p align="center">Check me out on Linkedin or Tiktok to see my coding journey into tech:</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
   <a href="https://www.tiktok.com/@theceewords"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a> 
