@@ -7,25 +7,11 @@
 I'm a recent Full-Stack Software Developer graduate at Makers Academy. I am passionate about improving my skills to develop innovative products and solve complex challenges. I'm committed to learning to ensure that I am constantly improving my skills and knowledge. Enthusiastic about learning to code and breaking into the tech industry.
 </p>
 
-<h2 align="center">Tech Stack</h2> 
-<p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby"/>
-</p>
-
 <p align="center">Check me out on Linkedin or Tiktok to see my coding journey into tech:</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
   <a href="https://www.tiktok.com/@theceewords"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a> 
-  <a href="https://www.codewars.com/users/TLChambers"><img height="30" src="https://www.codewars.com/users/TLChambers/badges/micro"></a> 
+  <a href="https://www.codewars.com/users/TLChambers"><img height="28px" src="https://www.codewars.com/users/TLChambers/badges/micro"></a> 
 </p>
 <div align="center">
 
@@ -42,6 +28,21 @@ I'm a recent Full-Stack Software Developer graduate at Makers Academy. I am pass
 <br><br>
 
 [Projects](CV#Projects) | [Skills](CV#Skills) | [Education](CV#Education) | [Hobbies](CV#Hobbies)
+
+
+<h2 align="center">Tech Stack</h2> 
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby"/>
+</p>
 
 ## Projects
 
