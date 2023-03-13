@@ -1,8 +1,37 @@
-## Thuy Ly-Chambers
+<h2 align="center"> Hey 👋, I'm Thuy!</h2>
+<p align="center">
+(It's pronounced as 'Twee' in case you're wondering.)
+</p>
+
+<p align="center">
+I'm a recent Full-Stack software developer graduate at Makers Academy. I am genuinely passionate about improving my skills to develop innovative products and solve complex challenges. I'm committed to learning to ensure that I am constantly improving my skills and knowledge. Enthusiastic about learning to code and breaking into the tech industry.
+</p>
+
+<h2 align="center">Tech Stack</h2> 
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby"/>
+</p>
+
+<p align="center">Check me out on Linkedin or visit Tiktok to see from the very beginning of my coding journey into tech:</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/thuy-l-2a3a13165/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+  <a href="https://www.tiktok.com/@theceewords"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a> 
+</p>
+<div align="center">
+
+<br><br>
+
+
+
 
 [LinkedIn](https://www.linkedin.com/in/thuy-l-2a3a13165/) | [Projects](CV#Projects) | [Skills](CV#Skills) | [Education](CV#Education) | [Hobbies](CV#Hobbies) 
-
-As a recent graduate of Makers Academy's full-stack software developer coding bootcamp, I have gained valuable experience in coding with Ruby and JavaScript, as well as test-driven development. Through daily pair programming and agile project work, I have also improved my communication and collaboration skills. I am genuinely passionate about using my skills to develop innovative products and solve complex challenges. I am always looking for new opportunities to learn and grow as a coder, and I'm committed to learning to ensure that I am constantly improving my skills and knowledge. I am enthusiastic about the opportunity to continue developing my skills and expertise as a software developer.
 
 ## Projects
 
